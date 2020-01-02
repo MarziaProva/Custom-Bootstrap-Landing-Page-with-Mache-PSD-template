@@ -3,10 +3,16 @@ In this project, I've converted a free PSD template into responsive one-page lan
 
 Tools that I used:
 
-HTML
+HTML  
+
 CSS
+
 JavaScript
+
 JQuery
+
 Bootstrap Framework
+
 Other components: Navbar, carousel
+
 PSD link: https://drive.google.com/file/d/1_l0-rpzma8fKHA62DZ9Kuq4q-syPClBf/view
